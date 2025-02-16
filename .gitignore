@@ -3,5 +3,5 @@ backup
 olib
 typings
 Configs/Local
-
+out/
 .vscode/launch.json
